@@ -11,7 +11,7 @@
 
 ## 📫 Connect with me:
 
-|<img src="images/gmail.png" width="30" alt="Email" /><br> [Send a mail now](mailto:saima.csecu18@gmail.com)|<img src="images/linkedin.png" width="30" alt="LinkedIn" /><br> [Connect now](https://www.linkedin.com/in/SaimaTuhin)|<img src="images/twitter.png" width="30" alt="X Profile" /><br> [Let's be friends](https://twitter.com/SaimaJST) |
+|<img src="images/gmail.png" width="30" alt="Email" /><br> [Send a mail now](mailto:saima.csecu18@gmail.com)|<img src="images/linkedin.png" width="30" alt="LinkedIn" /><br> [Connect now](https://www.linkedin.com/in/SaimaTuhin)|<img src="images/twitter.png" width="30" alt="X Profile" /><br> [Let's be friends](https://x.com/Saima_CU18) |
 |:-------------:|:-------------:|:-------------:|
 
 
