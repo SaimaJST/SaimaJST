@@ -7,3 +7,13 @@
 - 🌱 I’m currently exploring the landscape of NLP and Machine Learning
 - ⏳ I'm in the process of learning Laravel
 - 🤝 I'm open to collaborating on projects that push the boundaries of development and creativity
+<br/>
+
+## 📫 Connect with me:
+
+|<img src="images/gmail.png" width="30" alt="Email" /><br> [Send a mail now](mailto:saima.csecu18@gmail.com)|<img src="images/linkedin.png" width="30" alt="LinkedIn" /><br> [Connect now](https://www.linkedin.com/in/SaimaTuhin)|<img src="images/twitter.png" width="30" alt="X Profile" /><br> [Let's be friends](https://twitter.com/SaimaJST) |
+|:-------------:|:-------------:|:-------------:|
+
+
+
+
